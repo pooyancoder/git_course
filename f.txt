@@ -2,3 +2,5 @@ hi there this is edited by the new person in project
 
 
 new person is edittig f.txt in task "rebase"
+
+this time we will try rebase with conflict
